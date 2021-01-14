@@ -1,0 +1,160 @@
+*{
+    margin:0;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    margin-top: 0.5em;
+}
+
+.container{
+    background-color:white;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.caja0{
+    width: 120px;
+    height: 0.5px;
+    padding: 2em;
+    margin:1em;
+    margin-bottom: 0px;
+    background-color: rgb(60, 136, 252); 
+    color: black;
+}
+
+.caja5{
+    width: 120px;
+    height: 0.5px;
+    padding: 2em;
+    margin:1em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: rgb(60, 168, 252);
+    color: black;
+}
+
+.caja10{
+    width: 120px;
+    height: 0.5px;
+    padding: 2em;
+    margin:1em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: rgb(60, 200, 252);
+    color: black;
+}
+
+.caja15{
+    width: 120px;
+    height: 0.5px;
+    padding: 2em;
+    margin:1em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: rgb(163, 237, 251);
+    color: black;
+}
+
+.caja20{
+    width: 120px;
+    height: 0.5px;
+    padding: 2em;
+    margin:1em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: rgb(220, 247, 252);
+    color: black;
+}
+
+.caja25{
+    width: 120px;
+    height: 0.5px;
+    padding: 2em;
+    margin:1em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: rgb(253, 250, 228);
+    color: black;
+}
+
+.caja30{
+    width: 120px;
+    height: 0.5px;
+    padding: 2em;
+    margin:1em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: rgb(252, 252, 149);
+    color: black;
+}
+
+.caja35{
+    width: 120px;
+    height: 0.5px;
+    padding: 2em;
+    margin:1em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: rgb(253, 216, 49);
+    color: black;
+}
+
+.caja40{
+    width: 120px;
+    height: 0.5px;
+    padding: 2em;
+    margin:1em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: rgb(252, 163, 75);
+    color: black;
+}
+
+.caja45{
+    width: 120px;
+    height: 0.5px;
+    padding: 2em;
+    margin:1em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: rgb(245, 155, 34);
+    color: black;
+}
+
+.caja50{
+    width: 120px;
+    height: 0.5px;
+    padding: 2em;
+    margin:1em;
+    margin-top: 0px;
+    background-color: rgb(253, 9, 5);
+    color: black;
+}
+
+.cero, .cinco, .diez, .quince, .veinte, 
+.veinticinco, .treinta, .treintaycinco, 
+.cuarenta, .cuarentaycinco, .cincuenta{
+    display: flex;
+    align-items: center;
+    font-weight:bolder;
+    font-size: 1.2em;
+}
+
+.flexrow{
+    display: flex;
+    flex-direction: row;
+}
