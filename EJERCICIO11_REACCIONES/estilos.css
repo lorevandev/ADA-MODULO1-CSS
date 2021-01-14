@@ -1,0 +1,37 @@
+
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.link a{
+    color:blue;
+    text-decoration: none;
+}
+
+.fecha{
+    font-size: 14px;
+    color: grey;   
+}
+
+.corazon{
+    background: lightgrey;
+    margin:10px;
+    padding: 0.5px;
+}
+
+.pulgar{
+    background: lightgrey;
+    margin:10px;
+    padding:0.5px;
+}
+
+.aplauso{
+    background: lightgrey;
+    margin: 10px;
+    padding: 0.5px;
+}
+.llama{
+    background: lightgrey;
+    margin:10px;
+    padding: 0.5px;
+}
